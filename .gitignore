@@ -1,0 +1,14 @@
+# Compiled C++ executables
+*.exe
+*.out
+
+# Build files
+build/
+
+# Debug symbols and generated files
+*.pdb
+*.ilk
+*.obj
+
+# VS Code workspace settings
+.vscode/
