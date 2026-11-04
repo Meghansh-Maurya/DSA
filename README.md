@@ -14,16 +14,6 @@ I use this repository to maintain my coding practice, track my progress, and imp
 | Coding Ninjas (Code360) | [naukri.com/meghansh](https://www.naukri.com/code360/profile/meghansh) |
 | Codeforces | [codeforces/meghansh_24](https://codeforces.com/profile/meghansh_24) |
 
-## Repository Structure
-
-Solutions are stored directly in the repository. File names are based on the respective problem codes or question identifiers, irrespective of the coding platform.
-
-## Language
-
-- C
-- C++
-- Python
-
 ## Goals
 
 - Strengthen Data Structures and Algorithms fundamentals.
