@@ -8,7 +8,7 @@ I use this repository to maintain my coding practice, track my progress, and imp
 
 | Platform | Link |
 |---|---|
-| LeetCode | [leetcode/_meghansh_24_](https://leetcode.com/u/_meghansh_24_/) |
+| LeetCode | [leetcode/\_meghansh\_24\_](https://leetcode.com/u/_meghansh_24_/) |
 | CodeChef | [codechef/meghanshmaurya](https://www.codechef.com/users/meghanshmaurya) |
 | GeeksforGeeks | [geeksforgeeks/meghansh_maurya](https://www.geeksforgeeks.org/profile/meghansh_maurya?tab=activity) |
 | Coding Ninjas (Code360) | [naukri.com/meghansh](https://www.naukri.com/code360/profile/meghansh) |
