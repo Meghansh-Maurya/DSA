@@ -1,5 +1,7 @@
+// https://codeforces.com/problemset/problem/236/A
+
 #include<iostream>
-#include<unordered_map>
+#include <unordered_map>
 using namespace std;
 
 int main(){
